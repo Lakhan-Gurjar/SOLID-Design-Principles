@@ -2,7 +2,7 @@ The SOLID design principles are a set of five principles that guide software dev
 
 ### Single Responsibility Principle (SRP)
 
-"Description": A class should have only one reason to change, meaning it should have only one job or responsibility. This principle encourages separating concerns, so each class addresses a specific aspect of the functionality.
+''Description'': A class should have only one reason to change, meaning it should have only one job or responsibility. This principle encourages separating concerns, so each class addresses a specific aspect of the functionality.
 
 "Benefits": Improves code readability and maintainability, simplifies debugging and testing, and reduces the risk of introducing bugs when modifying the code.
 
