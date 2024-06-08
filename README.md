@@ -38,7 +38,3 @@ The SOLID design principles are a set of five principles that guide software dev
 - **Define Fine-Grained Interfaces**: Implement ISP by creating specific, role-focused interfaces rather than large, generalized ones.
 - **Depend on Abstractions**: Use dependency injection and other techniques to adhere to DIP, making high-level modules independent of low-level implementations.
 
-
-## Contributing
-
-Feel free to submit issues or pull requests if you find any improvements or bugs.
