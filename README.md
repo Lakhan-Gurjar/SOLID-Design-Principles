@@ -30,10 +30,4 @@ The SOLID design principles are a set of five principles that guide software dev
 
 **Benefits**: Decouples high-level and low-level components, increases the modularity of the system, and makes the codebase more adaptable to changes and easier to test.
 
-## How to Implement SOLID Principles in Your Codebase
 
-- **Refactor Classes Regularly**: Ensure that each class adheres to SRP by refactoring classes that have more than one responsibility.
-- **Use Design Patterns**: Apply design patterns like Strategy, Factory, and Observer to comply with OCP.
-- **Inheritance Best Practices**: Design subclasses to follow LSP by ensuring they do not alter the expected behavior of the superclass.
-- **Define Fine-Grained Interfaces**: Implement ISP by creating specific, role-focused interfaces rather than large, generalized ones.
-- **Depend on Abstractions**: Use dependency injection and other techniques to adhere to DIP, making high-level modules independent of low-level implementations.
